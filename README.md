@@ -1,6 +1,4 @@
-<p align="center">
-   alt="Royhan banner">
-</p>
+
 
 # Yo, I'm Royhan 👋
 
