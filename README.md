@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Royhan banner">
+   alt="Royhan banner">
 </p>
 
 # Yo, I'm Royhan 👋
