@@ -1,6 +1,5 @@
-# princeryh-ship-it
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Royhan banner">
+  <img src="assets/banner.png" width="100%" alt="Royhan banner">
 </p>
 
 # Yo, I'm Royhan 👋
